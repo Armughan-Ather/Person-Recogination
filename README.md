@@ -15,5 +15,5 @@ Detects unknown individuals with F1-scores ranging from 0.81 to 0.87, demonstrat
 
 Despite computational constraints (limited to 10 training epochs per fold), the model shows promising results and lays the foundation for scalable gait-based identification systems.
 
-Dataset source: CASIA-B on Kaggle
+Dataset source: https://www.kaggle.com/datasets/trnquanghuyn/casia-b/data
 
